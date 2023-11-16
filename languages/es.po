@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tema Cristina Importaciones 1.0\n"
+"POT-Creation-Date: 2023-11-16 17:13-0600\n"
+"PO-Revision-Date: 2023-11-16 17:14-0600\n"
+"Last-Translator: \n"
+"Language-Team: Claudia Perez\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ../Downloads/cristina\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;gettex;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:9
+msgid "Se necesita contraseña para visualizar este contenido"
+msgstr ""
+
+#: comments.php:18
+msgid "Escribe el primer comentario"
+msgstr ""
+
+#: comments.php:18
+msgid "Un comentario"
+msgstr ""
+
+#: comments.php:18
+#, no-php-format
+msgid "% comentarios"
+msgstr ""
+
+#: comments.php:30
+msgid ""
+"<i class=\"fa fa-arrow-left\" aria-hidden=\"true\"></i> Comentarios "
+"anteriores"
+msgstr ""
+
+#: comments.php:33
+msgid ""
+"Comentarios siguientes<i class=\"fa fa-arrow-right\" aria-hidden=\"true\"></"
+"i>"
+msgstr ""
+
+#: includes/menus.php:8
+msgid "Menu principal"
+msgstr ""
+
+#: includes/personalizador-tema.php:19
+msgid "Encabezado"
+msgstr ""
+
+#: includes/personalizador-tema.php:20
+msgid "Opciones del encabezado"
+msgstr ""
+
+#: includes/personalizador-tema.php:28
+msgid "Encabezado superior"
+msgstr ""
+
+#: includes/personalizador-tema.php:29
+msgid "Opciones del encabezado superior"
+msgstr ""
+
+#: includes/personalizador-tema.php:42
+msgid "Enlace de facebook"
+msgstr ""
+
+#: includes/personalizador-tema.php:56
+msgid "Enlace de youtube"
+msgstr ""
+
+#: includes/personalizador-tema.php:70
+msgid "Enlace de instagram"
+msgstr ""
+
+#: includes/personalizador-tema.php:81
+msgid "Encabezado normal"
+msgstr ""
+
+#: includes/personalizador-tema.php:82
+msgid "Opciones del encabezado normal"
+msgstr ""
+
+#: includes/personalizador-tema.php:96
+msgid "Logo"
+msgstr ""
+
+#: includes/personalizador-tema.php:105
+msgid "Pagina de inicio"
+msgstr ""
+
+#: includes/personalizador-tema.php:106
+msgid "Opciones de la página de inicio"
+msgstr ""
+
+#: includes/personalizador-tema.php:116
+msgid "banners"
+msgstr ""
+
+#: includes/personalizador-tema.php:117
+msgid "Opciones de sección de banners"
+msgstr ""
+
+#: includes/personalizador-tema.php:130
+msgid "Mostrar sección de banners"
+msgstr ""
+
+#: includes/personalizador-tema.php:143
+msgid "Link banner 1"
+msgstr ""
+
+#: includes/personalizador-tema.php:155
+msgid "Link banner 2"
+msgstr ""
+
+#: includes/personalizador-tema.php:167
+msgid "Ultimos artículos"
+msgstr ""
+
+#: includes/personalizador-tema.php:168
+msgid "Opciones de sección de últimos artículos"
+msgstr ""
+
+#: includes/personalizador-tema.php:181
+msgid "Mostrar sección de últimos artículos"
+msgstr ""
+
+#: includes/personalizador-tema.php:194
+msgid "Titulo de seccion ultimos articulos"
+msgstr ""
+
+#: includes/sidebars.php:7
+msgid "blog"
+msgstr ""
+
+#: includes/sidebars.php:9 includes/sidebars.php:20 includes/sidebars.php:31
+#: includes/sidebars.php:42
+msgid "Widget de blog"
+msgstr ""
+
+#: includes/sidebars.php:18
+msgid "sidebar-footer-izq"
+msgstr ""
+
+#: includes/sidebars.php:29
+msgid "sidebar-footer-cent"
+msgstr ""
+
+#: includes/sidebars.php:40
+msgid "sidebar-footer-der"
+msgstr ""
+
+#: index.php:512 template-homepage.php:253
+msgid "VER MÁS"
+msgstr ""
+
+#: template-parts/content-nopost.php:4
+msgid "No hay contenido para mostrar"
+msgstr ""
+
+#: template-parts/content-nopost.php:6
+msgid "No hay contenido en esta página, por favor realiza una nueva búsqueda"
+msgstr ""
