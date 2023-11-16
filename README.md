@@ -29,9 +29,9 @@ Este proyecto es una plantilla de tema para WordPress desarrollada utilizando PH
 
 ## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si desea contribuir al proyecto, por favor siga los pasos de [Informar Problemas](CONTRIBUTING.md).
+¡Las contribuciones son bienvenidas! Si desea contribuir al proyecto, por favor siga los pasos de [Informar Problemas](https://contributing.md/).
 
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT License](LICENSE.md) - consulte el archivo LICENSE.md para más detalles.
+Este proyecto está bajo la licencia [MIT License](https://LICENSE.md) - consulte el archivo LICENSE.md para más detalles.
 
